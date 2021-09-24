@@ -1,0 +1,49 @@
+19031:C 25 Oct 11:37:19.779 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+19031:M 25 Oct 11:37:19.782 * Increased maximum number of open files to 10032 (it was originally set to 7168).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 3.2.4 (41667de1/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 19031
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+19031:M 25 Oct 11:37:19.784 # Server started, Redis version 3.2.4
+19031:M 25 Oct 11:37:19.784 * DB loaded from disk: 0.000 seconds
+19031:M 25 Oct 11:37:19.785 * The server is now ready to accept connections on port 6379
+19031:M 25 Oct 16:22:46.097 * 1 changes in 3600 seconds. Saving...
+19031:M 25 Oct 16:22:46.098 * Background saving started by pid 22745
+22745:C 25 Oct 16:22:46.102 * DB saved on disk
+19031:M 25 Oct 16:22:46.201 * Background saving terminated with success
+19031:M 25 Oct 17:22:47.041 * 1 changes in 3600 seconds. Saving...
+19031:M 25 Oct 17:22:47.042 * Background saving started by pid 23585
+23585:C 25 Oct 17:22:47.046 * DB saved on disk
+19031:M 25 Oct 17:22:47.145 * Background saving terminated with success
+19031:M 26 Oct 17:04:47.668 * 1 changes in 3600 seconds. Saving...
+19031:M 26 Oct 17:04:47.670 * Background saving started by pid 34088
+34088:C 26 Oct 17:04:47.675 * DB saved on disk
+19031:M 26 Oct 17:04:47.775 * Background saving terminated with success
+19031:M 26 Oct 18:04:48.057 * 1 changes in 3600 seconds. Saving...
+19031:M 26 Oct 18:04:48.057 * Background saving started by pid 35108
+35108:C 26 Oct 18:04:48.063 * DB saved on disk
+19031:M 26 Oct 18:04:48.160 * Background saving terminated with success
+19031:M 26 Oct 23:07:28.489 * 1 changes in 3600 seconds. Saving...
+19031:M 26 Oct 23:07:28.489 * Background saving started by pid 38565
+38565:C 26 Oct 23:07:28.494 * DB saved on disk
+19031:M 26 Oct 23:07:28.592 * Background saving terminated with success
+19031:signal-handler (1477532837) Received SIGTERM scheduling shutdown...
+19031:M 27 Oct 09:47:17.620 # User requested shutdown...
+19031:M 27 Oct 09:47:17.620 * Saving the final RDB snapshot before exiting.
+19031:M 27 Oct 09:47:17.621 # Failed opening the RDB file dump.rdb (in server root dir /Users/Jo/demo/demo/redis-3.2.4) for saving: No space left on device
+19031:M 27 Oct 09:47:17.621 # Error trying to save the DB, can't exit.
+19031:M 27 Oct 09:47:17.621 # SIGTERM received but errors trying to shut down the server, check the logs for more information

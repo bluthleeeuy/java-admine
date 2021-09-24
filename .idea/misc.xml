@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo-master/GcDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/jms-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/nio-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/spi-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/proxyDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/dubbo-test/dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/dubbo-test/http-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/quartz-demo/quartz-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/secoundKill/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/spring-demo/spring-ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/spring-demo/demo-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/testforTomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/dubbo-comsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/serialize-test/serializeMethod/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/zookeeper-test/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/concurrent-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/springTrancation/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/sychornized-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/zookeeper-LoadBalance/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-master/load_Balance_Algorithm/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
